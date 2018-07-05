@@ -1,0 +1,4 @@
+2018-07-05T05:30:51+00:00 CRITICAL Call to undefined function wc_get_screen_ids()
+
+2018-07-05T05:37:06+00:00 CRITICAL Maximum execution time of 360 seconds exceeded
+
